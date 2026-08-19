@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-<h2>Desenvolvedor Full Stack Júnior & Estudante de Redes de Computadores</h2>
+<h2>Desenvolvedor Full Stack Júnior</h2>
 <p>
 Backend: Node.js | TypeScript | Express | Clean Architecture | DDD<br>
 Frontend: React | Next
