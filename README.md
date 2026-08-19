@@ -1,61 +1,51 @@
-<h1 align="center">Olá, eu sou o Johan 👋</h1>
+<img align="right" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<h1>Olá, eu sou o Johan!</h1>
+<a href="https://linkedin.com/in/johan-ramosa662a0411">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-<p align="center">
-  Desenvolvedor Full Stack Júnior | Node.js · TypeScript · React Native
+<h2>Desenvolvedor Full Stack Júnior & Estudante de Redes de Computadores</h2>
+<p>
+Backend: Node.js | TypeScript | Express | Clean Architecture | DDD<br>
+Frontend: React | Next
 </p>
+<ul>
+  <li>Desenvolvedor Full Stack Júnior no Grupo de Pesquisa em Informática Aplicada, Redes e Telecomunicações (IART)</li>
+  <li>Cursando CST em Redes de Computadores no IFCE</li>
+  <li>Sempre estudando algo novo em backend e arquitetura de software</li>
+</ul>
+<br />
+<img height="170" src="https://streak-stats.demolab.com?user=JohanRamos20&theme=tokyonight&hide_border=true" alt="Johan contribution streak" />
+<br />
 
-<p align="center">
-  <a href="https://linkedin.com/in/johan-ramosa662a0411">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<h2>🚀 Tech Stack</h2>
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts&theme=dark" />
 
-### 🚀 Sobre mim
+</td>
+<td valign="top" width="50%">
 
-- 💻 Desenvolvedor Full Stack Júnior no **Grupo de Pesquisa em Informática Aplicada, Redes e Telecomunicações (IART)**
-- 🎓 Cursando **CST em Redes de Computadores** no IFCE
-- 🏗️ Gosto de aplicar padrões de arquitetura de nível profissional (Clean Architecture, DDD, use cases, repositories) mesmo em projetos de estudo
-- 📍 Jaguaribe, Ceará - Brasil
-- 🌱 Sempre estudando algo novo em backend, arquitetura de software e redes
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
----
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-### 🛠️ Stack
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres,redis,prisma&theme=dark" />
 
-**Backend**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+</td>
+<td valign="top">
 
-**Frontend / Mobile**
-<br>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
 
-**Outros**
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-
----
-
-### 📌 Projetos em destaque
-
-- **[Finance-api](https://github.com/JohanRamos20/Finance-api)** — API de gestão financeira em Node.js/TypeScript com Clean Architecture: entidades de domínio, use cases, repositórios, cache com Redis, autenticação JWT e testes com Vitest.
-- **[Finance-web](https://github.com/JohanRamos20/Finance-web)** — Versão web da aplicação de gestão financeira, com dashboard de gastos, metas e gráficos.
-- **[Stock-api](https://github.com/JohanRamos20/Stock-api)** — API para controle de estoque em TypeScript.
-- **[Stock-web](https://github.com/JohanRamos20/Stock-web)** — Interface web para o sistema de controle de estoque.
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-Johan_Ramos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/johan-ramosa662a0411)
+</td>
+</tr>
+</table>
